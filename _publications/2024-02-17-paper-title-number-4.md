@@ -1,11 +1,16 @@
 ---
 title: "Published Paper "
 collection: publications
- permalink: /publication/2024-02-17-paper-title-number-4
- excerpt: 'This paper is about fixing template issue #693.'
- date: 2024-02-17
- venue: 'GitHub Journal of Bugs'
- paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: 'This paper is about fixing template issue #693.'
+date: 2024-02-17
+venue: 'GitHub Journal of Bugs'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
  [1] On the relation between quantum Darwinism and approximate quantum Markovianity, Phys. Lett. A 491, 129204 (2023). (with Z. Huang)
  [2] Energy extraction from rotating regular black hole via Comisso-Asenjo mechanism, Phys. Rev. D 108, 044067 (2023). (with Z. Li and F. Yuan)
  [3] Classical and quantum parts of conditional mutual information for open quantum systems, Phys. Rev. A, 106, 042412 (2022). (with Z. Huang)
@@ -22,6 +27,3 @@ collection: publications
 [13] Geometry and symmetric coherent states of three qubits systems, Int. J. Theor. Phys. 55, 2824 (2016).
 [14] On some information-geometric aspects of Hawking radiation as tunneling, Int. J. Theor. Phys. 54, 3699 (2015).
 [15] Information recovery with Hawking radiation from dynamical horizons, Int. J. Theor. Phys. 53, 2980 (2014). (with Q.-y. Cai)
----
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
