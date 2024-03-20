@@ -1,11 +1,11 @@
 ---
 title: "Published Paper "
 collection: publications
-# permalink: /publication/2024-02-17-paper-title-number-4
-# excerpt: 'This paper is about fixing template issue #693.'
-# date: 2024-02-17
-# venue: 'GitHub Journal of Bugs'
-# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+ permalink: /publication/2024-02-17-paper-title-number-4
+ excerpt: 'This paper is about fixing template issue #693.'
+ date: 2024-02-17
+ venue: 'GitHub Journal of Bugs'
+ paperurl: 'http://academicpages.github.io/files/paper3.pdf'
  [1] On the relation between quantum Darwinism and approximate quantum Markovianity, Phys. Lett. A 491, 129204 (2023). (with Z. Huang)
  [2] Energy extraction from rotating regular black hole via Comisso-Asenjo mechanism, Phys. Rev. D 108, 044067 (2023). (with Z. Li and F. Yuan)
  [3] Classical and quantum parts of conditional mutual information for open quantum systems, Phys. Rev. A, 106, 042412 (2022). (with Z. Huang)
