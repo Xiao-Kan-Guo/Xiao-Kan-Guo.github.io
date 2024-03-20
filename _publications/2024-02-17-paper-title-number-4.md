@@ -1,7 +1,9 @@
-
-title: "Published Papers "
-
+---
+title: "Published Papers"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-4
 date: 2024-03-20
+---
 
  [1] On the relation between quantum Darwinism and approximate quantum Markovianity, Phys. Lett. A 491, 129204 (2023). (with Z. Huang)
  
