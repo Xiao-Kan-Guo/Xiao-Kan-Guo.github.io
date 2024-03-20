@@ -1,11 +1,8 @@
 ---
 title: "Published Paper "
 collection: publications
-#permalink: /publication/2024-02-17-paper-title-number-4
 #excerpt: '[1] On the relation between quantum Darwinism and approximate quantum Markovianity, Phys. Lett. A 491, 129204 (2023). (with Z. Huang)'
-#date: 2024-02-17
-#venue: 'GitHub Journal of Bugs'
-#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+date: 2024-03-20
 
 ---
 
