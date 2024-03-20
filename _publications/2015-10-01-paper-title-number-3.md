@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Preprints"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2024-3-20
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+[16] Z. Huang and X.-K. Guo, Subsystem eigenstate thermalization hypothesis for translation invariant systems, arXiv:2312.00410v3.
+
+[17] Z. Huang and X.-K. Guo ∗ , Leggett-Garg inequalities for multitime processes, arXiv:2211.13396v3.
+
+[18] X.-K. Guo, S-matrix interpretation in categorical quantum mechanics, arXiv:1708.09383v2.
+
+[19] X.-K. Guo, Black hole thermodynamics from decoherence, arXiv:1512.05277v2.
