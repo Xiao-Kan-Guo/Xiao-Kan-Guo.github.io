@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Xiao-Kan Guo (郭肖侃)"
 author_profile: true
 redirect_from: 
   - /about/
